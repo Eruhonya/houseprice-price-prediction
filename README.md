@@ -1,7 +1,7 @@
 # House Prices Prediction
 ![Distribution](images/distr.png)
 ![Residuals](images/resid.png)
-![Correlation](images/top correlated features.png)
+![Correlation](images/top_correlated_features.png)
 ![Pipeline](images/pipe.png)
 ## Overview
 
