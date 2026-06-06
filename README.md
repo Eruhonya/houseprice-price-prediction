@@ -1,10 +1,9 @@
 # House Prices Prediction
-![Distribution](images/distr.png)
 <p align="center">
   <img src="images/distr.png" width="900">
   <img src="images/resid.png" width="900">
 </p>
-![Residuals](images/resid.png)
+
 ![Correlation](images/top_correlated_features.png)
 ![Pipeline](images/pipe.png)
 ## Overview
