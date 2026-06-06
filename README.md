@@ -1,5 +1,8 @@
 # House Prices Prediction
-
+![Distribution][images/distr.png]
+![Residuals][images/resid.png]
+![Correlation][images/top correlated features.png]
+![Pipeline][images/pipe.png]
 ## Overview
 
 This project focuses on predicting residential property sale prices using the Ames Housing dataset. The objective is to develop a robust machine learning pipeline capable of accurately estimating house prices while maintaining strong generalization performance on unseen data.
